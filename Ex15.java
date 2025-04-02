@@ -1,6 +1,4 @@
-/******************************************************************************
- Escreva um programa que calcule a soma dos números de 1 a 15.
- *******************************************************************************/
+
  import java.util.Scanner;
  public class Ex15.java
  {

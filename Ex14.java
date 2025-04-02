@@ -1,6 +1,4 @@
-/******************************************************************************
- Escreva um programa que exiba 10 vezes a mensagem “Eu gosto de estudar Algoritmos!”.
- *******************************************************************************/
+
  import java.util.Scanner;
  public class Ex14.algoritimos
  {

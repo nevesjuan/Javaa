@@ -1,6 +1,6 @@
 
  import java.util.Scanner;
- public class Ex14.algoritimos
+ public class Ex14
  {
  	public static void main(String[] args) {
  	    Scanner ler = new Scanner (System.in);

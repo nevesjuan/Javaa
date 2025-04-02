@@ -1,6 +1,4 @@
-/******************************************************************************
- Leia o nome do usuário e escreva o nome dele na tela 10 vezes.
- *******************************************************************************/
+
  import java.util.Scanner;
  public class Ex16.java
  {
